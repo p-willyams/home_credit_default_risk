@@ -74,7 +74,7 @@ This demonstrates that the model delivers **direct financial value** even after 
 
 ---
 
-## 🧪 Confusion Matrix (Threshold = 0.191)
+## Confusion Matrix (Threshold = 0.191)
 
 |                       | Pred 0 | Pred 1 |
 | --------------------- | ------ | ------ |
