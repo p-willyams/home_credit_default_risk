@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Home Credit risk" src="https://github.com/user-attachments/assets/3041002a-1781-4b88-8ff0-1571673c10c2" />
+
+<img width="1920" height="1080" alt="Home Credit risk(1)" src="https://github.com/user-attachments/assets/a6383db5-ad0b-4831-a8d6-4ae680db1857" />
 
 ## Project Overview
 
