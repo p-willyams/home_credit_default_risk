@@ -103,7 +103,7 @@ Use a threshold close to **0.19** as an **initial risk screening filter** to pri
 
 ---
 
-## 🧾 Data Source
+## Data Source
 
 The dataset used is the **Home Credit Default Risk** dataset, containing financial, demographic, and behavioral information from thousands of customers with diverse socioeconomic profiles.
 
@@ -120,8 +120,11 @@ This project demonstrates that, even in highly complex environments with:
 it is possible to build models that are:
 
 ✅ Robust
+
 ✅ Interpretable
+
 ✅ Scalable
+
 ✅ Financially impactful
 
 The model not only improves technical metrics but also delivers **real, measurable business value**.
