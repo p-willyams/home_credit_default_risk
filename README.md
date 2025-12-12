@@ -120,13 +120,13 @@ This project demonstrates that, even in highly complex environments with:
 
 it is possible to build models that are:
 
-✅ Robust
+1. Robust
 
-✅ Interpretable
+2. Interpretable
 
-✅ Scalable
+3. Scalable
 
-✅ Financially impactful
+4. Financially impactful
 
 The model not only improves technical metrics but also delivers **real, measurable business value**.
 
